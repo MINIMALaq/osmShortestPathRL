@@ -1,11 +1,11 @@
 # osmShortestPathRL
 Find Shortest Path between two points on OSM using Reinforcement Learning.
 
-I want to find shortest path between two points on OSM using Reinforcement Leaarning.
+I want to find shortest path between two points on OSM using Reinforcement Learning.
 
-In the first step I will find the Shortest Path using Q-Value Reinforcement Learning on an arbitrary graph.
+In the first step I will find the Shortest Path using Q-Value Reinforcement Learning on an arbitrary un-directed graph.
 
-Then I want to use OSM graph as an input.
+Then I want to use OSM graph as an input graph.
 
 Then I will solve the problem usin DQN on OSM.
 
